@@ -1,0 +1,12 @@
+BI Dashboard Storytelling — KPI Report
+
+Key Insights:
+
+1.  Sales show steady growth over time with seasonal peaks.
+2.  Technology category contributes highest revenue but has moderate
+    margin.
+3.  Some regions generate strong sales but lower profit margin,
+    indicating higher operational costs.
+
+Final Outcome: Executive-ready KPI dashboard with clear storytelling,
+filters, and business insights.
